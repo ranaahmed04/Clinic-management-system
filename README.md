@@ -54,11 +54,3 @@ In user mode, there is no password required. The system provides the following f
 1. **View patient record**: Enter the patient's ID to view their basic information.
 
 2. **View today’s reservations**: This option displays all reservations for the current day, along with the patient ID attached to each reservation slot.
-
-## Contributing
-
-Contributions to the clinic management system are welcome. You can contribute by submitting bug reports, suggesting new features, or implementing improvements. Please open an issue or pull request on the project repository to contribute.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
